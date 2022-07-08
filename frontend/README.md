@@ -1,2 +1,2 @@
-# rn-auth
-React Native Authentication system
+# Voting App frontend 
+React Native frontend for the voting app.
