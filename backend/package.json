@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "@oreste-abizera",
+  "author": "@Gisa-Kaze-Fredson",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
