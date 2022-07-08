@@ -244,7 +244,7 @@ const HomeScreen = ({ navigation }) => {
                   }}
                 >
                   <Text style={{ color: "#fff" }}>
-                    {candidate.votes?.length || 0} votes
+                    {candidate.votes?.length || 2} votes
                   </Text>
                 </TouchableHighlight>
               )}
